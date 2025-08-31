@@ -16,7 +16,6 @@
 
 I'm **Ahmed Samir**, a **Frontend Developer (React/TypeScript)** from Cairo, Egypt. I build responsive, high‑performance, and user‑friendly web apps with **React, TailwindCSS, Redux Toolkit, and Framer Motion**. My background in **Information Security & Digital Forensics** helps me think critically about performance and reliability.
 
-> عربي سريع: بحب أعمل UI نظيف، performant، وموشن ناعم ✨
 
 ---
 
